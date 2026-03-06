@@ -25,7 +25,18 @@
     "developer-tools",
     "markdown"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baekho-lim/devtodo.git"
+  },
+  "homepage": "https://github.com/baekho-lim/devtodo#readme",
+  "bugs": {
+    "url": "https://github.com/baekho-lim/devtodo/issues"
+  },
   "license": "MIT",
+  "files": [
+    "dist"
+  ],
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.0.0",
     "commander": "^12.0.0"
