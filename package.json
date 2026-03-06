@@ -1,5 +1,5 @@
 {
-  "name": "devtodo",
+  "name": "@baekholim/devtodo",
   "version": "0.1.0",
   "description": "Cross-repo TODO manager for developers using markdown files",
   "type": "module",
